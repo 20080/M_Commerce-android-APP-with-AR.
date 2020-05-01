@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213341418333",
+    "firebase_url": "https://sunday-morning-9c575.firebaseio.com",
+    "project_id": "sunday-morning-9c575",
+    "storage_bucket": "sunday-morning-9c575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213341418333:android:3f69f823b640390a",
+        "android_client_info": {
+          "package_name": "com.google.ar.sceneform.samples.hellosceneform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213341418333-oloqfcmaht29dsnj25uke6ve98r7ujkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.ar.sceneform.samples.hellosceneform",
+            "certificate_hash": "c393fe9b61722e048f7b12f2598f960cfaed5dd9"
+          }
+        },
+        {
+          "client_id": "213341418333-hnp6dgvcl6eckh1ig8mjseausoenv9ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHlzJ0HBd36TokjC-M3v1AmmUlx4VojAM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213341418333-hnp6dgvcl6eckh1ig8mjseausoenv9ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
